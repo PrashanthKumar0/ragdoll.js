@@ -1,5 +1,5 @@
 # Ragdoll.js
-[Live Demo](https://github.com/PrashanthKumar0/ragdoll.js)
+[Live Demo](https://prashanthkumar0.github.io/ragdoll.js/)
 
 <br/> 
 

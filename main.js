@@ -1,4 +1,4 @@
-import { Ragdoll } from "./lib/ragdoll.js";
+import { Ragdoll } from "./lib/Ragdoll.js";
 import { $ } from "./utils.js";
 
 function main() {
